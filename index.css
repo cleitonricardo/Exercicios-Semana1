@@ -1,0 +1,19 @@
+h1{
+    font-family:Verdana;
+    font-size: 20px;
+    color:brown;
+    text-align: center;
+    background-image:url( https://www.folhadelondrina.com.br/img/inline/3060000/Falha-na-Matrix--Diferentes-casos-em-que-a-logica-0306979000202105022159.jpg?xid=5389512);
+}
+p{
+    font-size: 14px;
+}
+body{
+    background-color: yellow;
+}
+a{
+    border-radius: 25%;
+    padding: 10px;
+    border: 2px solid black;
+    margin-top:20px
+}
