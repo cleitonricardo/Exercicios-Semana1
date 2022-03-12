@@ -4,6 +4,10 @@ h1 {
     color: white;
     text-align: center;
     background-image: url(Fundo.jpg);
+    background-repeat: no-repeat;
+    height: 60px;
+    background-size: 100%;
+    margin-top: 20px;
 }
 
 p {
@@ -38,6 +42,7 @@ body {
     text-align: center;
     padding: 10px 16px;
     text-decoration: none;
+    transition: 300ms;
 }
 
 .navbar a:hover {
