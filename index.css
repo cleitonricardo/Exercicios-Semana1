@@ -7,11 +7,18 @@ h1 {
     background-repeat: no-repeat;
     height: 60px;
     background-size: 100%;
-    margin-top: 20px;
+}
+
+h2 {
+    text-align: center;
 }
 
 p {
     font-size: 14px;
+}
+
+.Descrição {
+    text-align: center;
 }
 
 .next {
@@ -50,6 +57,14 @@ body {
     color: black;
 }
 
-.main {
-    margin-top: 30px;
+.roda {
+    text-align: center;
+    overflow: hidden;
+    background-color: rgb(163, 121, 240);
+    bottom: 0;
+    width: 100%;
+}
+
+.Video {
+    text-align: center;
 }
